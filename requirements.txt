@@ -1,0 +1,13 @@
+colorama
+tqdm
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+imblearn
+scikit-learn
+catboost 
+shap
+
+git+https://github.com/ParkhomenkoDV/decorators.git@master
